@@ -1,0 +1,29 @@
+body, html {
+    width: 99%;
+    height: 98%;
+}
+
+body {
+    background-color: black;
+    font-family: arial;
+    color: rgb(158, 158, 158);
+    font-size: 14px;
+    position: relative;
+}
+
+.select {
+    width: 100%;
+    height: 4%;
+    bottom: 0;
+    position: absolute;
+
+    color: rgb(24, 24, 24);
+
+    background-color: rgb(82, 82, 82);
+    border: 0;
+}
+
+#text {
+    margin-bottom: 32px;
+    margin-left: 28px;
+}
